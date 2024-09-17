@@ -10,4 +10,4 @@ I'm a front-end developer currently learning and improving my basics
 ## My current Projects are:
 ### [urReader](https://github.com/YuriVGR/urRead) (may change the name later)
 
-An open source and modular manga reader built on react native, everything is being built from scratch, so I'll probably take some time
+An open source and modular manga reader built on react native, everything is being built from scratch, so it will probably take some time until it's first alpha version.
