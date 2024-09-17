@@ -6,6 +6,8 @@ I'm a front-end developer currently learning and improving my basics
 
 An open source and modular manga reader built on react native
 
+## About me again!
+
 ### I'm usually working with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,figma)](https://skillicons.dev)
 
