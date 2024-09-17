@@ -6,5 +6,8 @@ I'm a front-end developer currently learning and improving my basics
 
 An open source and modular manga reader built on react native
 
-## My skills are
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind)](https://skillicons.dev)
+## I'm usually working with
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,figma)](https://skillicons.dev)
+
+## I use these to improve my workflow daily
+[![My Skills](https://skillicons.dev/icons?i=notion,obsidian,)](https://skillicons.dev)
