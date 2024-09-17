@@ -7,8 +7,4 @@ I'm a front-end developer currently learning and improving my basics
 An open source and modular manga reader built on react native
 
 ## I usually work with
-
-- Typescript
-- Tailwind
-- Next.JS
-- React Native
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
