@@ -11,3 +11,7 @@ I'm a front-end developer currently learning and improving my basics
 ### [urReader](https://github.com/YuriVGR/urRead) (may change the name later)
 
 An open source and modular manga reader built on react native, everything is being built from scratch, so it will probably take some time until it's first alpha version.
+
+### [PokeAPI](https://github.com/YuriVGR/poke-api)
+
+PokeDex project just to learn, improve and show some ideas built on Next and Tailwind
