@@ -1,9 +1,8 @@
-## Hi there, I'm Yuri
-I'm a front-end developer currently learning and improving my basics
-### Contact me
-- Discord: notreallyuri
-- Email: yurivgr@icloud.com
-### I'm usually working with
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,bun,nextjs,tailwind,sass,figma)](https://skillicons.dev)
-### I use these to improve my workflow daily
-[![My Skills](https://skillicons.dev/icons?i=notion,obsidian,)](https://skillicons.dev)
+## 👋 Hi there, I'm Yuri!  
+🚀 Front-end developer | Currently learning and improving my skills  
+### 💡 About Me    
+- Learning **backend development** to become more full-stack  
+- Love working with **React, Next.js, TypeScript, and Bun**  
+### 📬 Contact Me  
+💬 **Discord:** `notreallyuri`  
+📧 **Email:** [yurivgr@icloud.com](mailto:yurivgr@icloud.com)  
