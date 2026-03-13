@@ -17,6 +17,5 @@ Junior Developer | UI/UX Designer
 <div align="center">
   ### Stats
 </div>
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notreallyuri&theme=sakura-x&border_radius=0&short_numbers=true)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats-mu-three.vercel.app?user=notreallyuri&theme=neon&border_radius=0)](https://git.io/streak-stats)
+
