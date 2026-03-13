@@ -24,13 +24,6 @@ Junior Developer learning Rust because I enjoy performance but I dislike C++
 
 [![](https://skillicons.dev/icons?i=arch,neovim,obsidian,bash,figma)](https://skillicons.dev)
 
-### Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities.
-
-**Email:** [yurivgr@icloud.com](mailto:yurivgr@icloud.com)
-
-**Discord:** `notreallyuri`
-
 ---
 
 <div align="center">
