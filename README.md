@@ -3,9 +3,7 @@
 Sergipe, Brazil
 
 Junior Developer | UI/UX Designer
-### About Me    
-- Learning **backend development** to become more full-stack  
-- Love working with Next.js, TypeScript, and Bun.
+
 #### Current:
 ##### Tools
 [![](https://skillicons.dev/icons?i=arch,neovim,obsidian,bash,figma,pnpm)](https://skillicons.dev)
@@ -16,3 +14,9 @@ Junior Developer | UI/UX Designer
 ### Contact Me  
 **Discord:** `notreallyuri`  
 **Email:** [yurivgr@icloud.com](mailto:yurivgr@icloud.com)  
+<div align="center">
+  ### Stats
+</div>
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notreallyuri&theme=sakura-x&border_radius=0&short_numbers=true)](https://git.io/streak-stats)
+</div>
