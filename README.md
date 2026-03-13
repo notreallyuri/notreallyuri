@@ -15,7 +15,8 @@ Junior Developer | UI/UX Designer
 **Discord:** `notreallyuri`  
 **Email:** [yurivgr@icloud.com](mailto:yurivgr@icloud.com)  
 <div align="center">
-  ### Stats
+  <h3>Stats</h3>
+
+  [![GitHub Streak](https://github-readme-streak-stats-mu-three.vercel.app?user=notreallyuri&theme=neon&border_radius=0&card_width=1000)](https://git.io/streak-stats)
 </div>
-[![GitHub Streak](https://github-readme-streak-stats-mu-three.vercel.app?user=notreallyuri&theme=neon&border_radius=0)](https://git.io/streak-stats)
 
