@@ -24,20 +24,20 @@ Junior Developer learning Rust because I enjoy performance but I dislike C++
 
 [![](https://skillicons.dev/icons?i=arch,neovim,obsidian,bash,figma)](https://skillicons.dev)
 
+### Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities.
+
+**Email:** [yurivgr@icloud.com](mailto:yurivgr@icloud.com)
+
+**Discord:** `notreallyuri`
+
 ---
 
 <div align="center">
   <h3>GitHub Stats</h3>
-  <br/>
-  <a href="https://github.com/notreallyuri">
-    <img src="https://github-readme-streak-stats-mu-three.vercel.app?user=notreallyuri&theme=neon&border_radius=0" alt="GitHub Streak" />
-  </a>
 </div>
 
----
+[![GitHub Streak](https://github-readme-streak-stats-mu-three.vercel.app?user=notreallyuri&theme=youtube-dark&border_radius=0&card_width=1000)](https://git.io/streak-stats)
 
-### 📫 Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities.
 
-* **Email:** [yurivgr@icloud.com](mailto:yurivgr@icloud.com)
-* **Discord:** `notreallyuri`
+
