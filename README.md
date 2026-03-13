@@ -1,22 +1,43 @@
-## Yuri
-### About
-Sergipe, Brazil
-
-Junior Developer | UI/UX Designer
-
-#### Current:
-##### Tools
-[![](https://skillicons.dev/icons?i=arch,neovim,obsidian,bash,figma,pnpm)](https://skillicons.dev)
-##### Languages
-[![](https://skillicons.dev/icons?i=rust,ts,java)](https://skillicons.dev)
-##### Frameworks
-[![](https://skillicons.dev/icons?i=nextjs,tauri)](https://skillicons.dev)
-### Contact Me  
-**Discord:** `notreallyuri`  
-**Email:** [yurivgr@icloud.com](mailto:yurivgr@icloud.com)  
 <div align="center">
-  <h3>Stats</h3>
-
-  [![GitHub Streak](https://github-readme-streak-stats-mu-three.vercel.app?user=notreallyuri&theme=neon&border_radius=0&card_width=1000)](https://git.io/streak-stats)
+  <h2>Hi there, I'm Yuri!</h2>
+  <p><b>Junior Developer | UI/UX Designer</b></p>
+  <p>Based in Sergipe, Brazil</p>
 </div>
 
+---
+
+### About Me
+Junior Developer learning Rust because I enjoy performance but I dislike C++
+
+
+### Tech Stack
+
+**Languages**
+
+[![](https://skillicons.dev/icons?i=rust,ts,java)](https://skillicons.dev)
+
+**Frameworks & Ecosystem**
+
+[![](https://skillicons.dev/icons?i=nextjs,tauri,pnpm)](https://skillicons.dev)
+
+**Tools & Environment**
+
+[![](https://skillicons.dev/icons?i=arch,neovim,obsidian,bash,figma)](https://skillicons.dev)
+
+---
+
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <br/>
+  <a href="https://github.com/notreallyuri">
+    <img src="https://github-readme-streak-stats-mu-three.vercel.app?user=notreallyuri&theme=neon&border_radius=0" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### 📫 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities.
+
+* **Email:** [yurivgr@icloud.com](mailto:yurivgr@icloud.com)
+* **Discord:** `notreallyuri`
